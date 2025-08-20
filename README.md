@@ -4,6 +4,9 @@ A **DIY automated hydroponics system** built with Arduino to monitor and manage 
 This project is a **proof-of-concept** for creating a **low-cost, smart gardening solution**.
 
 ---
+<img src="https://github.com/Dilanka-ai/Hydroponics-Grow-Tower-Version-1.0/blob/1ebdfef8eb7d8b9d7af4bd3b95a6211e636bf054/IMG-20231008-WA0024.jpg" 
+     alt="image_alt" 
+     width="350"/>
 
 ## ✨ Features
 
